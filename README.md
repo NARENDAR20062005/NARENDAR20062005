@@ -12,7 +12,7 @@
 <div align="center">
 
 
- 💬 Ask me about **Java, React,UI?UX ... or anything [here](https://github.com/SUDHARSAN-KSRCT)**
+ 💬 Ask me about **Java, React,UI?UX ... or anything [here](https://github.com/NARENDAR20062005/)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
