@@ -42,9 +42,15 @@
 
 <br/>
 <hr/>
-## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Narendar_20062005?theme=light&font=baloo)
+
+<h2 align="center">🧠 LeetCode Stats 🧠 </h2>
+<br/>
+<div align="center">
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/Narendar_20062005?theme=light&font=baloo)
+</div>
+
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
