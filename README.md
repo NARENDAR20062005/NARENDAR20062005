@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Narendar+P!;" />
 </h1>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=SUDHARSAN-KSRCT&label=Profile%20views&color=0e75b6&style=flat" alt="SUDHARSAN-KSRCT" /> 
+  <img src="https://komarev.com/ghpvc/?username=NARENDAR20062005&label=Profile%20views&color=0e75b6&style=flat" alt="NARENDAR20062005" /> 
 </p>
 
-<h3 align="center">A Passionate Web Developer And UI/UX Developer</h3>
+<h3 align="center">A Passionate Java Developer And Full Stack Developer</h3>
 
 <br/>
 
