@@ -46,9 +46,9 @@
 
 <h2 align="center">🧠 LeetCode Stats 🧠 </h2>
 <br/>
-<div align="center">
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/Narendar_20062005?theme=light&font=baloo)
-</div>
+
+( ![LeetCode Stats](https://leetcard.jacoblin.cool/Narendar_20062005?theme=light&font=baloo) )
+
 
 
 <hr/>
